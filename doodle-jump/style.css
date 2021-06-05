@@ -1,0 +1,38 @@
+.grid {
+  width: 400px;
+  height: 600px;
+  background-image: url(./pics/pic2.png);
+  left: 0;
+  top: 0;
+  position: absolute;
+}
+
+.scoreview {
+  font-family: "Lucida Sans";
+  width: 400px;
+  left: 0;
+  top: 0;
+  position: absolute;
+  font-size: 100px;
+  text-align: center;
+}
+
+.doodler {
+  width: 60px;
+  height: 85px;
+  background-image: url(./pics/pic3.jpg);
+  position: absolute;
+}
+
+.platform {
+  width: 85px;
+  height: 15px;
+  background-image: url(./pics/pic1.png);
+  position: absolute;
+}
+
+.btn-click {
+  position: absolute;
+  top: 620px;
+  left: 185px;
+}

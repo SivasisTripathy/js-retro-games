@@ -1,0 +1,88 @@
+body {
+  display: flex;
+}
+
+.game-container {
+  width: 500px;
+  height: 730px;
+  position: absolute;
+  left: 80px;
+  top: 0;
+}
+
+.border-left {
+  width: 80px;
+  height: 750px;
+  position: absolute;
+  background-color: white;
+  z-index: +2;
+  left: 0;
+  top: 0;
+}
+
+.border-right {
+  width: 80px;
+  height: 750px;
+  position: absolute;
+  background-color: white;
+  z-index: +2;
+  left: 580px;
+  top: 0;
+}
+
+.border-top {
+  width: 500px;
+  height: 50px;
+  position: absolute;
+  background-color: white;
+  z-index: +3;
+  top: -50px;
+}
+
+.sky {
+  background-image: url(./pics/pic2.png);
+  width: 500px;
+  height: 580px;
+  position: absolute;
+}
+
+.ground {
+  background-image: url(./pics/pic3.jpg);
+  width: 500px;
+  height: 150px;
+  position: absolute;
+  top: 580px;
+  z-index: +1;
+}
+
+.bird {
+  background-image: url(./pics/pic4.png);
+  position: absolute;
+  width: 60px;
+  height: 45px;
+}
+
+.obstacle {
+  background-image: url(./pics/pic1.png);
+  width: 60px;
+  height: 300px;
+  position: absolute;
+}
+
+.topObstacle {
+  background-image: url(./pics/pic1.png);
+  transform: rotate(180deg);
+  width: 60px;
+  height: 300px;
+  position: absolute;
+}
+
+.scoreview {
+  font-family: "Lucida Sans";
+  width: 500px;
+  left: 80px;
+  top: 0;
+  position: absolute;
+  font-size: 100px;
+  text-align: center;
+}
