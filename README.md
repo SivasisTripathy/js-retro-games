@@ -10,7 +10,7 @@ This repo contains few of my childhood games which I've recreated using vanilla 
 
 ![alt text](https://imgur.com/Elvcbua "Doodle Jump")
 
-![alt text](https://imgur.com/SmC1iPj "Doodle Jump")
+![alt text](https://i.imgur.com/SmC1iPj.png "Doodle Jump")
 
 
 ## How to play
