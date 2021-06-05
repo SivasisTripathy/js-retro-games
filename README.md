@@ -6,9 +6,9 @@ This repo contains few of my childhood games which I've recreated using vanilla 
 ## Here are a few images of the games
 =====================================
 
-![alt text](https://imgur.com/H5Mpz88 "Flappy Bird")
+![alt text](https://i.imgur.com/H5Mpz88.png "Flappy Bird")
 
-![alt text](https://imgur.com/Elvcbua "Doodle Jump")
+![alt text](https://i.imgur.com/Elvcbua.png "Doodle Jump")
 
 ![alt text](https://i.imgur.com/SmC1iPj.png "Doodle Jump")
 
