@@ -5,9 +5,9 @@ This repo contains few of my childhood games which I've recreated using vanilla 
 
 ## Here are a few Images of the games
 
-![https://imgur.com/H5Mpz88]
+!(https://imgur.com/H5Mpz88)
 
-![https://imgur.com/Elvcbua]
+!(https://imgur.com/Elvcbua)
 
-![https://imgur.com/SmC1iPj]
+!(https://imgur.com/SmC1iPj)
 
